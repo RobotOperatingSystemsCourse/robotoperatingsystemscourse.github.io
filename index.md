@@ -16,7 +16,7 @@ ROB 320, Winter 2024 at the University of Michigan
 {:toc}
 
 # Meeting Times
-TBD
+Coming soon!
 
 # Instructors
 
@@ -55,3 +55,4 @@ TBD
 {% endif %}
 
 # Office Hours
+Coming soon!
