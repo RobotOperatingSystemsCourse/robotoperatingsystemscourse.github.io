@@ -16,9 +16,11 @@ ROB 320, Winter 2024 at the University of Michigan
 {:toc}
 
 # Meeting Times
-Coming soon!
+**Lecture** - Monday, Wednesday - 10:30-12:00 - 1050 FRB
 
-# Instructors
+**Lab** - Friday - 2:30-4:30 - 1050 FRB
+
+# Instructor
 
 <div class="staff-row">
 {% assign instructors = site.staff | where: 'role', 'Instructor' %}
@@ -54,5 +56,18 @@ Coming soon!
 </div>
 {% endif %}
 
+{% assign development_staff = site.staff | where: 'role', 'Development Staff' %}
+{% assign num_development_staff = development_staff | size %}
+{% if num_development_staff != 0 %}
+
+# Development Staff
+
+<div class="staff-row">
+{% for staffer in development_staff %}
+{{ staffer }}
+{% endfor %}
+</div>
+{% endif %}
+
 # Office Hours
-Coming soon!
+*coming soon*
