@@ -18,7 +18,7 @@ ROB 320, Winter 2024 at the University of Michigan
 # Meeting Times
 **Lecture** - Monday, Wednesday - 10:30-12:00 - 1050 FRB
 
-**Lab** - Friday - 2:30-4:30 - 1050 FRB
+**Lab** - Friday - 2:30-4:30 - 1017 DOW
 
 # Instructor
 
@@ -70,4 +70,7 @@ ROB 320, Winter 2024 at the University of Michigan
 {% endif %}
 
 # Office Hours
-*coming soon*
+
+[Office Hours Queue](https://oh.eecs.umich.edu/courses/rob320)
+<br>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_41016a3477456b89a7e3e704284dc8d9bc54416ce78f5e1b61b7d7034f54cdae%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="1400" height="600" frameborder="0" scrolling="no"></iframe>
