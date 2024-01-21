@@ -12,8 +12,7 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
   Google Drive: https://drive.google.com/drive/folders/1lV64QVeFZJnPA3FwqR5rWkDSjwVbG59l?usp=sharing
-  GitHub: https://github.com/orgs/RobotOperatingSystemsCourse/repositories
-  Office Hours Queue: https://oh.eecs.umich.edu/courses/rob320
+  Course GitHub: https://github.com/orgs/RobotOperatingSystemsCourse/repositories
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
