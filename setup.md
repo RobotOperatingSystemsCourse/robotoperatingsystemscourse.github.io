@@ -5,7 +5,7 @@ nav_order: 6
 ---
 
 # Setting Up Docker Environment in Visual Studio Code
-This guide will walk you through the steps to set up the development environment for ROB 320.
+This guide will walk you through the steps to set up the development environment for ROB 320. 
 
 ## Prerequisites
 - If not already completed, follow the [EECS 280 Setup Tutorial](https://eecs280staff.github.io/tutorials/) with Visual Studio Code as your IDE.
