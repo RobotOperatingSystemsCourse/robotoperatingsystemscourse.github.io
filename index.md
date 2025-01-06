@@ -16,9 +16,9 @@ ROB 320, Winter 2024 at the University of Michigan
 {:toc}
 
 # Meeting Times
-**Lecture** - Monday, Wednesday - 10:30-12:00 - 1050 FRB
+**Lecture**: Monday/Wednesday 10:30-12:00 in 1050 FRB
 
-**Lab** - Friday - 2:30-4:30 - 1017 DOW
+**Lab**: Friday 2:30-4:30 in 1017 DOW
 
 # Instructor
 
@@ -29,12 +29,22 @@ ROB 320, Winter 2024 at the University of Michigan
 {% endfor %}
 </div>
 
+{% assign devs = site.staff | where: 'role', 'Lead Developer' %}
+{% assign num_devs = devs | size %}
+{% if num_devs != 0 %}
+# Lead Developer
+<div class="staff-row">
+{% assign devs = site.staff | where: 'role', 'Lead Developer' %}
+{% for staffer in devs %}
+{{ staffer }}
+{% endfor %}
+</div>
+{% endif %}
+
 {% assign gsis = site.staff | where: 'role', 'Graduate Student Instructor' %}
 {% assign num_gsis = gsis | size %}
 {% if num_gsis != 0 %}
-
-# Graduate Instructor
-
+# Graduate Student Instructor
 <div class="staff-row">
 {% assign gsis = site.staff | where: 'role', 'Graduate Student Instructor' %}
 {% for staffer in gsis %}
@@ -46,9 +56,7 @@ ROB 320, Winter 2024 at the University of Michigan
 {% assign teaching_assistants = site.staff | where: 'role', 'Instructional Aide' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-
 # Instructional Aides
-
 <div class="staff-row">
 {% for staffer in teaching_assistants %}
 {{ staffer }}
@@ -59,9 +67,7 @@ ROB 320, Winter 2024 at the University of Michigan
 {% assign development_staff = site.staff | where: 'role', 'Development Staff' %}
 {% assign num_development_staff = development_staff | size %}
 {% if num_development_staff != 0 %}
-
 # Development Staff
-
 <div class="staff-row">
 {% for staffer in development_staff %}
 {{ staffer }}

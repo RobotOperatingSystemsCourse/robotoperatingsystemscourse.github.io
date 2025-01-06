@@ -1,6 +1,6 @@
 ---
 name: Brody Riopelle
-role: Instructional Aide
+role: Lead Developer
 email: broderio@umich.edu
 photo: broderio.jpg
 ---

@@ -1,6 +1,6 @@
 ---
-name: Jacob Sullivan
+name: Halina Costello
 role: Instructional Aide
-email: jksully@umich.edu
+email: halinac@umich.edu
 photo: temp.jpg
 ---
