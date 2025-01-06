@@ -1,13 +1,13 @@
 ---
-title: Lab 1
+title: Lab 9
 layout: page
 parent: Labs
-nav_order: 1
+nav_order: 9
 ---
 
-# Lab 1: C Programming and Memory Organization
+# Lab 9: Shared Memory
 {: .no_toc }
-Due at 4:30 PM on Jan 10, 2024
+Due at 4:30 PM on Mar 14, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code

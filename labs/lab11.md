@@ -1,13 +1,13 @@
 ---
-title: Lab 1
+title: Lab 11
 layout: page
 parent: Labs
-nav_order: 1
+nav_order: 11
 ---
 
-# Lab 1: C Programming and Memory Organization
+# Lab 11: 2D RRT
 {: .no_toc }
-Due at 4:30 PM on Jan 10, 2024
+Due at 4:30 PM on Mar 28, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
