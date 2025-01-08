@@ -7,7 +7,7 @@ has_toc: false
 ---
 
 # Labs
-Winter 2025: Fridays 2:30 - 4:30 PM in DOW 1017
+Winter 2025: Fridays 2:30 - 4:30 PM in FRB 1050
 
 There are 14 labs in this course. Each lab will be released at 2:30 PM on Friday at the start of the lab session. Students will have approximately 2 hours to complete the lab assignment. There are unlimited submissions to the autograder for labs.
 

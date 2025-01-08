@@ -18,7 +18,7 @@ ROB 320, Winter 2024 at the University of Michigan
 # Meeting Times
 **Lecture**: Monday/Wednesday 10:30-12:00 in 1050 FRB
 
-**Lab**: Friday 2:30-4:30 in 1017 DOW
+**Lab**: Friday 2:30-4:30 in 1050 FRB
 
 # Instructor and Project Lead
 
