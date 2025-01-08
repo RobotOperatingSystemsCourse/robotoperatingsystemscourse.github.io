@@ -6,7 +6,7 @@ nav_order: 1
 
 # Robot Operating Systems
 {: .no_toc }
-ROB 320, Winter 2024 at the University of Michigan
+ROB 320, Winter 2025 at the University of Michigan
 {: .fs-6 .fw-300 }
 
 ## Table of contents
