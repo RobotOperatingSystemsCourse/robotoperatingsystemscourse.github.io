@@ -22,8 +22,7 @@ In this course, we advise you to set up the VS Code Remote extension to be used 
 <img src="../assets/images/setup/vscode_setup_3.png" alt="Open SSH config file" width="50%" />
 <img src="../assets/images/setup/vscode_setup_4.png" alt="SSH config file" width="50%" />
 
-3. Copy the following into the file. Replace [UNIQNAME] with your uniqname.
-
+3. Copy the following into the file. Replace `[UNIQNAME]` with your uniqname.
 ```plaintext
 Host oncampus-course.engin.umich.edu
   HostName oncampus-course.engin.umich.edu
@@ -33,19 +32,17 @@ Host oncampus-course.engin.umich.edu
 4. Open the Command Pallette by pressing ctrl/cmd + shift + p. Search "Remote" and open the Remote-SSH: Settings.<br>
 <img src="../assets/images/setup/vscode_setup_5.png" alt="Command Palette" width="50%" />
 
-5. Scroll down towards the bottom of the settings and ensure that the **Use Local Server** option is toggled **off**.<br>
-<img src="../assets/images/setup/vscode_setup_6.png" alt="Use Local Server" width="75%" />
+5. Scroll down towards the bottom of the settings and ensure that the **Show Login Terminal** is toggled **on** and the **Use Local Server** option is toggled **off**.<br>
+<img src="../assets/images/setup/vscode_setup_6.png" alt="Show Login Terminal" width="75%" />
+<img src="../assets/images/setup/vscode_setup_7.png" alt="Use Local Server" width="75%" />
 
 6. Close out of the Command Palette and navigate back to the Remote Explorer window. You can choose to open the remote window in the current VS Code window (arrow icon) or a new window (folder icon). Select one. <br>
-<img src="../assets/images/setup/vscode_setup_7.png" alt="VS Code Remote Select" width="50%" />
+<img src="../assets/images/setup/vscode_setup_8.png" alt="VS Code Remote Select" width="50%" />
 
-7. VS Code will prompt you to enter your password. After, a prompt will appear where you can select to see more **detail**. Expand the window and click on **detail**.<br>
-<img src="../assets/images/setup/vscode_setup_8.png" alt="open Detail" width="50%" />
-
-8. You should see a prompt to use DUO two factor authentication. Choose an option and authenticate with your device.<br>
+7. You should see a prompt for your password and two factor authentication. Enter your password and choose an option to authenticate with your device.<br>
 <img src="../assets/images/setup/vscode_setup_9.png" alt="DUO" width="50%" />
 
-9. If successful, VS Code should now connect to the CAEN Linux Remote Login Server. You can choose to open a folder and navigate through the directory. When selecting a folder, VS Code may prompt you again for your password and two factor authentication. Follow steps 7 and 8 if this occurs.
+8. If successful, VS Code should now connect to the CAEN Linux Remote Login Server. You can choose to open a folder and navigate through the directory. When selecting a folder, VS Code may prompt you again for your password and TFA. Follow steps 7 and 8 if this occurs.
 
 ## MBot Setup
 
