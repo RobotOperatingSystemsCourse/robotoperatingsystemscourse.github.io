@@ -18,4 +18,14 @@ tar -xf lab1.tar.gz
 rm lab1.tar.gz
 ```
 
-Instructions for labs will be presented in person. Lab assignments are meant to be completed during lab time and are due at the end of the session.
+It is *strongly* recommended to use GitHub to track the changes made to your lab assignment. First, create a new **private** repository in GitHub. Then, navigate to the lab assignment directory and run the following commands.
+```bash
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin [LINK TO REPO]
+git push -u origin main
+```
+This will establish a main branch on the remote repository and add the starter code as the first commit.
+
+Instructions for labs will be presented in person. Lab assignments are meant to be completed during lab time and are due at the end of the session. The late policy will apply to lab assignments submitted after the deadline.
