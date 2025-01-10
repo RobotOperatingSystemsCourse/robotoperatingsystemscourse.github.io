@@ -42,7 +42,7 @@ Host oncampus-course.engin.umich.edu
 7. You should see a prompt for your password and two factor authentication. Enter your password and choose an option to authenticate with your device.<br>
 <img src="../assets/images/setup/vscode_setup_9.png" alt="DUO" width="50%" />
 
-8. If successful, VS Code should now connect to the CAEN Linux Remote Login Server. You can choose to open a folder and navigate through the directory. When selecting a folder, VS Code may prompt you again for your password and TFA. Follow steps 7 and 8 if this occurs.
+8. If successful, VS Code should now connect to the CAEN Linux Remote Login Server. You can choose to open a folder and navigate through the directory. When selecting a folder, VS Code may prompt you again for your password and 2FA. Follow steps 7 and 8 if this occurs.
 
 ## MBot Setup
 
