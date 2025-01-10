@@ -22,7 +22,7 @@ In this course, we advise you to set up the VS Code Remote extension to be used 
 <img src="../assets/images/setup/vscode_setup_3.png" alt="Open SSH config file" width="50%" />
 <img src="../assets/images/setup/vscode_setup_4.png" alt="SSH config file" width="50%" />
 
-3. Copy the following into the file. Replace `[UNIQNAME]` with your uniqname.
+3. Copy the following into the file. Replace `[UNIQNAME]` with your uniqname. To avoid issues with connecting to the CAEN server, any configuration that you have in this file that would attempt to auto-fill your password should be removed.
 ```plaintext
 Host oncampus-course.engin.umich.edu
   HostName oncampus-course.engin.umich.edu
@@ -43,6 +43,8 @@ Host oncampus-course.engin.umich.edu
 <img src="../assets/images/setup/vscode_setup_9.png" alt="DUO" width="50%" />
 
 8. If successful, VS Code should now connect to the CAEN Linux Remote Login Server. You can choose to open a folder and navigate through the directory. When selecting a folder, VS Code may prompt you again for your password and 2FA. Follow steps 7 and 8 if this occurs.
+
+9. This guide is only for the **on campus** connection. If you are working from an off-campus network, do this guide again but replace `oncampus-course.engin.umich.edu` with `login-course.engin.umich.edu`.
 
 ## MBot Setup
 
