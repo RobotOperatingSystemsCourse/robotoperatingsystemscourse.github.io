@@ -21,7 +21,6 @@ ROB 320, Winter 2025 at the University of Michigan
 **Lab**: Friday 2:30-4:30 in 1050 FRB
 
 # Instructor and Project Lead
-
 <div class="staff-row">
 {% assign instructors = site.staff | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
