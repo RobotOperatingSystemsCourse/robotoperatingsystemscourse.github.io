@@ -11,9 +11,9 @@ Due at 4:30 PM on Jan 24, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab3_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0).
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/wgs0ewhdbow6odr5zwe0x/Lab3.tar.gz?rlkey=u54eyy3w202eu2oiy6h77cpr2&st=72blwxl7&dl=0).
 ```bash
-wget "https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab3_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0" -O lab3.tar.gz
+wget "https://www.dropbox.com/scl/fi/wgs0ewhdbow6odr5zwe0x/Lab3.tar.gz?rlkey=u54eyy3w202eu2oiy6h77cpr2&st=72blwxl7&dl=0" -O lab3.tar.gz
 tar -xf lab3.tar.gz
 rm lab3.tar.gz
 ```
