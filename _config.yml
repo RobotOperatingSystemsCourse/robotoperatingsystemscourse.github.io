@@ -11,6 +11,7 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
+  Zoom: https://umich.zoom.us/j/9853142363
   Google Drive: https://drive.google.com/drive/folders/17gsqjUeFjiynJGbo9yWazmTKToilAz_z?usp=drive_link
   Piazza: https://piazza.com/umich/winter2025/rob320/home
   Autograder: https://autograder.io
