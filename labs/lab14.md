@@ -7,7 +7,7 @@ nav_order: 14
 
 # Lab 14: Build Automation
 {: .no_toc }
-Due at 4:30 PM on Apr 18, 2024
+Due at 2:30 PM on Apr 25, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code

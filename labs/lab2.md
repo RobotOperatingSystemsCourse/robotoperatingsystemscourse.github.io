@@ -7,7 +7,7 @@ nav_order: 2
 
 # Lab 2: Socket Programming and Serialization
 {: .no_toc }
-Due at 4:30 PM on Jan 17, 2024
+Due at 11:59 PM on Jan 24, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code

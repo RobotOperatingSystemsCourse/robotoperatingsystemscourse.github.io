@@ -7,7 +7,7 @@ nav_order: 7
 
 # Lab 7: Software Design
 {: .no_toc }
-Due at 4:30 PM on Feb 21, 2024
+Due at 2:30 PM on Feb 28, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code

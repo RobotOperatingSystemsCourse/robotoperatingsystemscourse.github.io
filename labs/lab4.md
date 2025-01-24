@@ -7,7 +7,7 @@ nav_order: 4
 
 # Lab 4: Data Structures I
 {: .no_toc }
-Due at 4:30 PM on Jan 31, 2024
+Due at 2:30 PM on Feb 7, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code

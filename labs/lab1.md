@@ -7,7 +7,7 @@ nav_order: 1
 
 # Lab 1: C Programming and Memory Organization
 {: .no_toc }
-Due at 4:30 PM on Jan 10, 2024
+Due at 2:30 PM on Jan 17, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code

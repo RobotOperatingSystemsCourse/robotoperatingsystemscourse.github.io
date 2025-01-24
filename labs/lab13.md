@@ -7,7 +7,7 @@ nav_order: 13
 
 # Lab 13: Pendularm
 {: .no_toc }
-Due at 4:30 PM on Apr 11, 2024
+Due at 2:30 PM on Apr 18, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code

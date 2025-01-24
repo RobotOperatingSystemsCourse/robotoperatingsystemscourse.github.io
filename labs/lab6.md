@@ -7,7 +7,7 @@ nav_order: 6
 
 # Lab 6: 3D Transforms
 {: .no_toc }
-Due at 4:30 PM on Feb 14, 2024
+Due at 2:30 PM on Feb 21, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
