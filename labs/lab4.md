@@ -11,9 +11,9 @@ Due at 2:30 PM on Feb 7, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab4_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0).
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://robotoperatingsystemscourse.github.io/assets/lab4.tar.gz).
 ```bash
-wget "https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab4_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0" -O lab4.tar.gz
+wget "https://robotoperatingsystemscourse.github.io/assets/lab4.tar.gz" -O lab4.tar.gz
 tar -xf lab4.tar.gz
 rm lab4.tar.gz
 ```
