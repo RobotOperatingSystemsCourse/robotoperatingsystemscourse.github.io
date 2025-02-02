@@ -80,7 +80,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.3.3)
-  just-the-docs (= 0.6.2)
+  just-the-docs
 
 BUNDLED WITH
    2.4.20
