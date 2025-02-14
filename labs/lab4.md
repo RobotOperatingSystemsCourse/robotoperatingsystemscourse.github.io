@@ -5,7 +5,7 @@ parent: Labs
 nav_order: 4
 ---
 
-# Lab 4: Data Structures I
+# Lab 4: Data Structures
 {: .no_toc }
 Due at 2:30 PM on Feb 7, 2024
 {: .fs-6 .fw-300 }

@@ -2,18 +2,18 @@
 title: Lab 10
 layout: page
 parent: Labs
-nav_order: 10
+nav_order: 11
 ---
 
-# Lab 10: Gradient Descent
+# Lab 10: 2D RRT
 {: .no_toc }
-Due at 2:30 PM on Mar 28, 2024
+Due at 2:30 PM on Apr 4, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab10_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0).
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here]().
 ```bash
-wget "https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab10_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0" -O lab10.tar.gz
+wget "" -O lab10.tar.gz
 tar -xf lab10.tar.gz
 rm lab10.tar.gz
 ```

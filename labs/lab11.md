@@ -2,18 +2,18 @@
 title: Lab 11
 layout: page
 parent: Labs
-nav_order: 11
+nav_order: 12
 ---
 
-# Lab 11: 2D RRT
+# Lab 11: Collision Detection
 {: .no_toc }
-Due at 2:30 PM on Apr 4, 2024
+Due at 2:30 PM on Apr 11, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab11_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0).
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here]().
 ```bash
-wget "https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab11_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0" -O lab11.tar.gz
+wget "" -O lab11.tar.gz
 tar -xf lab11.tar.gz
 rm lab11.tar.gz
 ```

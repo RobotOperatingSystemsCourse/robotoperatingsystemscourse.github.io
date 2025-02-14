@@ -7,13 +7,13 @@ nav_order: 7
 
 # Lab 7: Software Design
 {: .no_toc }
-Due at 2:30 PM on Feb 28, 2024
+Due at 2:30 PM on March 14, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab7_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0).
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here]().
 ```bash
-wget "https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab7_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0" -O lab7.tar.gz
+wget "" -O lab7.tar.gz
 tar -xf lab7.tar.gz
 rm lab7.tar.gz
 ```

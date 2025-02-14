@@ -2,18 +2,18 @@
 title: Lab 13
 layout: page
 parent: Labs
-nav_order: 13
+nav_order: 14
 ---
 
-# Lab 13: Pendularm
+# Lab 13: Build Automation
 {: .no_toc }
-Due at 2:30 PM on Apr 18, 2024
+Due at 2:30 PM on Apr 25, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab13_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0).
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here]().
 ```bash
-wget "https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab13_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0" -O lab13.tar.gz
+wget "" -O lab13.tar.gz
 tar -xf lab13.tar.gz
 rm lab13.tar.gz
 ```

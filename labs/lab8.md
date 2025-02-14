@@ -5,15 +5,15 @@ parent: Labs
 nav_order: 8
 ---
 
-# Lab 8: Data Structures II
+# Lab 8: Shared Memory
 {: .no_toc }
-Due at 2:30 PM on Mar 14, 2024
+Due at 2:30 PM on Mar 21, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab8_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0).
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here]().
 ```bash
-wget "https://www.dropbox.com/scl/fi/2iws6gvruurwnfmp70qyg/lab8_stencil.gz?rlkey=8xoobt757a9x82lqm6g47f59n&st=vxyq83aw&dl=0" -O lab8.tar.gz
+wget "" -O lab8.tar.gz
 tar -xf lab8.tar.gz
 rm lab8.tar.gz
 ```
