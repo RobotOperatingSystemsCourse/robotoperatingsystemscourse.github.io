@@ -2,7 +2,7 @@
 title: Lab 11
 layout: page
 parent: Labs
-nav_order: 12
+nav_order: 11
 ---
 
 # Lab 11: Collision Detection

@@ -2,7 +2,7 @@
 title: Lab 13
 layout: page
 parent: Labs
-nav_order: 14
+nav_order: 13
 ---
 
 # Lab 13: Build Automation

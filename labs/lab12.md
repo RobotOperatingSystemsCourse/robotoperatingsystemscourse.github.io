@@ -2,7 +2,7 @@
 title: Lab 12
 layout: page
 parent: Labs
-nav_order: 13
+nav_order: 12
 ---
 
 # Lab 12: Pendularm

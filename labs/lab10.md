@@ -2,7 +2,7 @@
 title: Lab 10
 layout: page
 parent: Labs
-nav_order: 11
+nav_order: 10
 ---
 
 # Lab 10: 2D RRT
