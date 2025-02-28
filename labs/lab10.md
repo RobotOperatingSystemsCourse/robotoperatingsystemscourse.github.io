@@ -7,7 +7,7 @@ nav_order: 10
 
 # Lab 10: 2D RRT
 {: .no_toc }
-Due at 2:30 PM on Apr 4, 2024
+Due at 2:30 PM on Apr 11, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code

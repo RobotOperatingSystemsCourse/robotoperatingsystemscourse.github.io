@@ -7,13 +7,13 @@ nav_order: 6
 
 # Lab 6: URDF Definition Programming
 {: .no_toc }
-Due at 2:30 PM on Feb 21, 2024
+Due at 2:30 PM on March 14, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here]().
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/2pl0kd5oot5lfg2zt5i9t/Lab7.tar.gz?rlkey=1m7gmv9vg1brz6ht8s9xcl1yl&st=m0bbz8n1&dl=0).
 ```bash
-wget "" -O lab6.tar.gz
+wget "https://www.dropbox.com/scl/fi/2pl0kd5oot5lfg2zt5i9t/Lab7.tar.gz?rlkey=1m7gmv9vg1brz6ht8s9xcl1yl&st=m0bbz8n1&dl=0" -O lab6.tar.gz
 tar -xf lab6.tar.gz
 rm lab6.tar.gz
 ```

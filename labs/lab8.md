@@ -7,7 +7,7 @@ nav_order: 8
 
 # Lab 8: Shared Memory
 {: .no_toc }
-Due at 2:30 PM on Mar 21, 2024
+Due at 2:30 PM on Mar 28, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
