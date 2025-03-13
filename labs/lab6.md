@@ -11,7 +11,7 @@ Due at 2:30 PM on March 14, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/2pl0kd5oot5lfg2zt5i9t/Lab7.tar.gz?rlkey=1m7gmv9vg1brz6ht8s9xcl1yl&st=m0bbz8n1&dl=0).
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/gsy0qvpdflbzbtrgft51i/Lab6.tar.gz?rlkey=61hx6gkoewmo2dzbh6zxks9nu&st=qt9hqp5l&dl=0).
 ```bash
 wget "https://www.dropbox.com/scl/fi/gsy0qvpdflbzbtrgft51i/Lab6.tar.gz?rlkey=61hx6gkoewmo2dzbh6zxks9nu&st=qt9hqp5l&dl=0" -O Lab6.tar.gz
 tar -xf Lab6.tar.gz
