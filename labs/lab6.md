@@ -13,7 +13,7 @@ Due at 2:30 PM on March 14, 2024
 ## Getting the Starter Code
 Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/ikhlyvtovg0wsvorzbopf/Lab6.tar.gz?rlkey=azxbt6h24cmlu44fe7l64pb9a&st=yehjqxzb&dl=0).
 ```bash
-wget "https://www.dropbox.com/scl/fi/gsy0qvpdflbzbtrgft51i/Lab6.tar.gz?rlkey=61hx6gkoewmo2dzbh6zxks9nu&st=qt9hqp5l&dl=0" -O Lab6.tar.gz
+wget "https://www.dropbox.com/scl/fi/ikhlyvtovg0wsvorzbopf/Lab6.tar.gz?rlkey=azxbt6h24cmlu44fe7l64pb9a&st=yehjqxzb&dl=0" -O Lab6.tar.gz
 tar -xf Lab6.tar.gz
 rm Lab6.tar.gz
 ```
