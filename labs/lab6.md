@@ -11,11 +11,11 @@ Due at 2:30 PM on March 14, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/2pl0kd5oot5lfg2zt5i9t/Lab7.tar.gz?rlkey=1m7gmv9vg1brz6ht8s9xcl1yl&st=m0bbz8n1&dl=0).
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/ikhlyvtovg0wsvorzbopf/Lab6.tar.gz?rlkey=azxbt6h24cmlu44fe7l64pb9a&st=yehjqxzb&dl=0).
 ```bash
-wget "https://www.dropbox.com/scl/fi/2pl0kd5oot5lfg2zt5i9t/Lab7.tar.gz?rlkey=1m7gmv9vg1brz6ht8s9xcl1yl&st=m0bbz8n1&dl=0" -O lab6.tar.gz
-tar -xf lab6.tar.gz
-rm lab6.tar.gz
+wget "https://www.dropbox.com/scl/fi/ikhlyvtovg0wsvorzbopf/Lab6.tar.gz?rlkey=azxbt6h24cmlu44fe7l64pb9a&st=yehjqxzb&dl=0" -O Lab6.tar.gz
+tar -xf Lab6.tar.gz
+rm Lab6.tar.gz
 ```
 
 It is *strongly* recommended to use GitHub to track the changes made to your lab assignment. First, create a new **private** repository in GitHub. Then, navigate to the lab assignment directory and run the following commands.
