@@ -11,11 +11,11 @@ Due at 2:30 PM on Apr 4, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here]().
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/mghf4egner8p3ujlqm3tc/Lab9.tar.gz?rlkey=ih10mb6nhawsnlq8qz1ptd2sh&st=t1z9vu81&dl=0).
 ```bash
-wget "" -O lab9.tar.gz
-tar -xf lab9.tar.gz
-rm lab9.tar.gz
+wget "https://www.dropbox.com/scl/fi/mghf4egner8p3ujlqm3tc/Lab9.tar.gz?rlkey=ih10mb6nhawsnlq8qz1ptd2sh&st=t1z9vu81&dl=0" -O Lab9.tar.gz
+tar -xf Lab9.tar.gz
+rm Lab9.tar.gz
 ```
 
 It is *strongly* recommended to use GitHub to track the changes made to your lab assignment. First, create a new **private** repository in GitHub. Then, navigate to the lab assignment directory and run the following commands.
