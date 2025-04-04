@@ -5,9 +5,9 @@ parent: Labs
 nav_order: 11
 ---
 
-# Lab 11: Collision Detection
+# Lab 11: Build Automation
 {: .no_toc }
-Due at 2:30 PM on Apr 18, 2024
+Due at 2:30 PM on Apr 25, 2024
 {: .fs-6 .fw-300 }
 
 ## Getting the Starter Code
