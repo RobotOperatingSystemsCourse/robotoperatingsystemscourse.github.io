@@ -13,10 +13,10 @@ Due at 2:30 PM on April 18, 2024
 
 ## Getting the Starter Code
 
-Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here]().
+Navigate to the directory where you would like to store the code for this lab. Run the following commands to install the lab starter code or download it manually [here](https://www.dropbox.com/scl/fi/ahu27r8mr2dq4j9vnnwta/Lab10.tar.gz?rlkey=akudkjs6wt3o05ccqbhfd3o26&st=pybidb85&dl=0).
 
 ```bash
-wget "" -O lab10.tar.gz
+wget "https://www.dropbox.com/scl/fi/ahu27r8mr2dq4j9vnnwta/Lab10.tar.gz?rlkey=akudkjs6wt3o05ccqbhfd3o26&st=pybidb85&dl=0" -O lab10.tar.gz
 tar -xf lab10.tar.gz
 rm lab10.tar.gz
 ```
